@@ -1,6 +1,5 @@
 # Guess-a-number
-> A simple command-line game where you guess a number between 1 and 10. You've got three chances—can you beat the odds?
-
+> A simple command-line game where you guess a number between 1 and 10.
 
 ## 🛠️ Installation & Usage
 
