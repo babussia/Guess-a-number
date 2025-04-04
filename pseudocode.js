@@ -14,7 +14,7 @@ BEGIN
     // Start the guessing loop
     DISPLAY "I'm thinking of a number between ", minValue, " and ", maxValue, ". Can you guess it?"
 
-    REPEAT UNTIL player_guess = target_number
+    REPEAT UNTIL player_guess = targetNumber
     DO
         // Get the player's guess
         DISPLAY "Enter your guess: "
