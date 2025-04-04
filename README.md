@@ -41,3 +41,6 @@ let targetNumber =
 - Prompted the user to play again after each round.
 
 ## 📸 Screenshots
+![insert an image](./assets/Screenshot%202025-04-04%20at%2015.29.42.png "hover")
+This is how  Guess a number game: look at the console.
+
