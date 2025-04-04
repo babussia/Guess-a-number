@@ -15,7 +15,7 @@ npm i
 ```
 
 ```bash
-node yourfilename.js
+node index.js
 ```
 
 ### Usage
@@ -42,5 +42,9 @@ let targetNumber =
 
 ## 📸 Screenshots
 ![insert an image](./assets/Screenshot%202025-04-04%20at%2015.29.42.png "hover")
-This is how  Guess a number game: look at the console.
+
+## 🌟 Future Features
+- UI version with HTML/CSS for web deployment.
+
+
 
